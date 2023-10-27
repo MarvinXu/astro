@@ -1,5 +1,13 @@
 # astro
 
+## 3.4.1
+
+### Patch Changes
+
+- [#8932](https://github.com/withastro/astro/pull/8932) [`5fed432b0`](https://github.com/withastro/astro/commit/5fed432b0c3c84542a3d1b2952d183e9cbe3fa0e) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Fixed window component appearing over the dev overlay on small windows. Added a maximum length to sections of the tooltip component
+
+- [#8928](https://github.com/withastro/astro/pull/8928) [`ca90b47cf`](https://github.com/withastro/astro/commit/ca90b47cfc5e00f5065cf461e2fe50db62215e49) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Renames dev overlay UI Toolkit component names for consistency.
+
 ## 3.4.0
 
 ### Minor Changes

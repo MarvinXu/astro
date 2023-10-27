@@ -1,5 +1,11 @@
 # @astrojs/markdoc
 
+## 0.7.1
+
+### Patch Changes
+
+- [#8759](https://github.com/withastro/astro/pull/8759) [`01c801108`](https://github.com/withastro/astro/commit/01c801108f1f5429436e4fc930018bf96ed31f79) Thanks [@lutaok](https://github.com/lutaok)! - Fix build process on markdoc integration when root folder contains spaces
+
 ## 0.7.0
 
 ### Minor Changes
